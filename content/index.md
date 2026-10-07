@@ -1,8 +1,4 @@
----
-title: "Jewish holidays"
-date: 2026-10-07
-draft: false
----
+
 
 # Jewish holidays
 
@@ -13,4 +9,4 @@ Jewish holidays occur on the same dates every year in the Hebrew calendar, but t
  Candles are lit on the eve of the Jewish Sabbath ("Shabbat") and on Jewish holidays.
 ![Candles](/images/ShabbatcandlesC.jpg)
 
-[Concepte Generale](/concepte_generale).
+[Concepte Generale](/blog/concepteGenerale).
