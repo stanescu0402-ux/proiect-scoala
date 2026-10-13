@@ -1,12 +1,55 @@
 
+# Sărbători Evreiești Majore
 
-# Jewish holidays
+Bine ați venit! Această pagină oferă o prezentare generală a celor mai importante sărbători din calendarul evreiesc. Selectați orice sărbătoare de mai jos pentru a afla mai multe despre istoria, semnificația și tradițiile acesteia.
 
-**Jewish holidays**,also known as **Jewish festivals** or **Yamim Tovim** are holidays observed by Jews throughout the Hebrew calendar.[Note 1] They include religious, cultural and national elements, derived from four sources: mitzvot ("biblical commandments"), rabbinic mandates, the history of Judaism, and the State of Israel.
+---
 
-Jewish holidays occur on the same dates every year in the Hebrew calendar, but the dates vary in the Gregorian. This is because the Hebrew calendar is a lunisolar calendar (based on the cycles of both the sun and moon), whereas the Gregorian is a solar calendar. Each holiday can only occur on certain days of the week, four for most, but five for holidays in Tevet and Shevat and six for Hanukkah
+## Lista Sărbătorilor
 
- Candles are lit on the eve of the Jewish Sabbath ("Shabbat") and on Jewish holidays.
-![Candles](/images/ShabbatcandlesC.jpg)
+### 1. Rosh Hashanah
 
-[Concepte Generale](/blog/concepteGenerale).
+Anul Nou Evreiesc și începutul Zilelor Sacre de introspecție și rugăciune.
+ [Citește mai mult despre Rosh Hashanah](/blog/roshHashanah)
+
+---
+
+### 2. Yom Kippur
+
+Ziua Ispășirii, cea mai sfântă și sobră zi din an, dedicată postului și iertării.
+- [Citește mai mult despre Yom Kippur](/blog/yomKippur)
+
+---
+
+### 3. Sukkot
+
+Sărbătoarea Corturilor, o săptămână plină de bucurie ce amintește de adăposturile din deșert.
+- [Citește mai mult despre Sukkot](/blog/sukkot)
+
+---
+
+### 4. Pesach (Paștele Evreiesc)
+
+Sărbătoarea Libertății, ce comemorează eliberarea din sclavie și Exodul din Egipt.
+- [Citește mai mult despre Pesach](/blog/pesach)
+
+---
+
+### 5. Shavuot
+
+Sărbătoarea Săptămânilor, ce celebrează primirea Torei pe Muntele Sinai.
+- [Citește mai mult despre Shavuot](/blog/shavuot)
+
+---
+
+### 6. Hanukkah
+
+Sărbătoarea Luminilor, ce comemorează miracolul uleiului și rededicarea Templului.
+- [Citește mai mult despre Hanukkah](/blog/hanukkah)
+
+---
+
+### 7. Purim
+
+O sărbătoare plină de bucurie ce comemorează salvarea poporului evreu din Persia antică.
+- [Citește mai mult despre Purim](/blog/purim)
